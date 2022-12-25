@@ -8,26 +8,33 @@
 - ⚡ Fun fact: My objective is to learn something new every week.
 
 ## Skills
-- C
-- C++
-- Python
-- R
-- JavaScript
-- MySQL
-- HTML5
-- CSS3
 
 <table>
     <tbody>
         <tr>
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468878-62bb16b3-f548-48d1-ac9d-10c87cfc23d9.svg" />
             </a></td>
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468876-7d05ea6b-8ff2-4419-8dbf-2462634c431a.svg" />
             </a></td>
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468879-6d185143-c679-484c-9efd-98762695fb56.svg" />
+            </a></td>
+            <td>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468880-bce760c9-0e82-41b0-837c-b0222b89ce51.png" />
+            </a></td>
+            <td>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468881-3afd7acc-b607-4620-b610-183fe1312cc6.svg" />
+            </a></td>
+            <td>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468884-6cf801a5-f8c9-4805-94c4-205e71809eba.svg"/>
+            </a></td>
+            <td>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468885-7e0a4115-e8ee-43e5-a67c-08ac46c9ce8c.svg"/>
+            </a></td>
+            <td>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468882-3b2cd28d-a0bb-4f9c-a6f1-da5d2c0fdb37.svg"/>
             </a></td>
         </tr>
     </tbody>
