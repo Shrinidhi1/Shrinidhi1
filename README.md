@@ -17,6 +17,22 @@
 - HTML5
 - CSS3
 
+<table>
+    <tbody>
+        <tr>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            </a></td>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
+
 ##  My Stats 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrinidhi1&theme=dark&background=000000)](https://git.io/streak-stats)
  
