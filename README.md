@@ -5,7 +5,7 @@
 - 🌍 Based in India.
 - 🌱 I’m currently learning ML and AI.
 - 🤝 I’m looking to collaborate on Data Science and Data Structures projects.
-- 📫 How to reach me: [LinkedIN](www.linkedin.com/in/shrinidhi-hireraddi-100256228)
+- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/shrinidhi-hireraddi-100256228/)
 - ⚡ Fun fact: My objective is to learn something new every week.
 
 ## Languages & Tools
