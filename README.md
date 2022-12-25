@@ -31,6 +31,9 @@
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209469238-d720263e-e891-455c-8ab8-5a235e1cf7f5.svg" />
             </a></td>
             <td>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209469361-cd1a7544-c3d9-44e8-a8d7-cae459f7f5e6.svg" />
+            </a></td>
+            <td>
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209468880-bce760c9-0e82-41b0-837c-b0222b89ce51.png" />
             </a></td>
             <td>
