@@ -7,8 +7,7 @@
 - 🤝 I’m looking to collaborate on Data Science and Data Structures projects.
 - ⚡ Fun fact: My objective is to learn something new every week.
 
-## Skills
-
+## Languages & Tools
 <table>
     <tbody>
         <tr>
