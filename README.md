@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Shrinidhi R Hireraddi!
 
-## I love to code.
+## I love to code. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌍 Based in India.
 - 🌱 I’m currently learning ML and AI.
@@ -16,3 +16,11 @@
 - MySQL
 - HTML5
 - CSS3
+
+##  My Stats 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrinidhi1&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+ ## My top languages
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi1&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
