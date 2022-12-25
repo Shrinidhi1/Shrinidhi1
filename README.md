@@ -6,3 +6,13 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 🤝 I’m looking to collaborate on Data Science and Data Structures projects.
 - ⚡ Fun fact: My objective is to learn something new every week.
+
+## Skills
+- C
+- C++
+- Python
+- R
+- JavaScript
+- MySQL
+- HTML5
+- CSS3
