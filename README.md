@@ -1,4 +1,4 @@
-### Hi there 👋 I am Shrinidhi R Hireraddi!
+# Hi there 👋 I am Shrinidhi R Hireraddi!
 
 ## I love to code. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
