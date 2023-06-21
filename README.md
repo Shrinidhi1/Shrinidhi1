@@ -8,6 +8,14 @@
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/shrinidhi-hireraddi-100256228/)
 - ⚡ Fun fact: My objective is to learn something new every week.
 
+
+##  My Stats 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrinidhi1)](https://git.io/streak-stats)
+ <br>
+ <!--
+ <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhi1&show_icons=true&theme=dark"/>
+ -->
+
 ## Languages & Tools
 <table>
     <tbody>
@@ -51,16 +59,3 @@
         </tr>
     </tbody>
 </table>
-
- ## My Top languages
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi1)](https://github.com/anuraghazra/github-readme-stats)
-
-##  My Stats 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrinidhi1)](https://git.io/streak-stats)
- <br>
- <!--
- <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhi1&show_icons=true&theme=dark"/>
- -->
- 
- 
- 
