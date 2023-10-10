@@ -1,6 +1,6 @@
-# Hi there 👋 I am Shrinidhi!
+# Hi there👋 I am Shrinidhi!
 
-## I love to code. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## I love to code.
 
 - 🌍 Based in India.
 - 🌱 I’m currently learning ML and AI.
@@ -20,29 +20,33 @@
 <table>
     <tbody>
         <tr>
+            <!-- C -->
             <td>
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209468878-62bb16b3-f548-48d1-ac9d-10c87cfc23d9.svg" />
             </a></td>
+            <!-- C++ -->
             <td>
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209468876-7d05ea6b-8ff2-4419-8dbf-2462634c431a.svg" />
             </a></td>
-            <td>
-            <img height="50" src="https://user-images.githubusercontent.com/83594754/209469240-bd219686-ab80-486c-9897-0c922f7ec128.svg" />
-            </a></td>
+            <!-- Python -->
             <td>
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209468879-6d185143-c679-484c-9efd-98762695fb56.svg" />
             </a></td>
-            <td>
-            <img height="50" src="https://user-images.githubusercontent.com/83594754/209469237-af5ef5ad-9419-4161-bbe9-a09293152b11.svg" />
-            </a></td>
-            <td>
-            <img height="50" src="https://user-images.githubusercontent.com/83594754/209469238-d720263e-e891-455c-8ab8-5a235e1cf7f5.svg" />
-            </a></td>
-            <td>
-            <img height="50" src="https://user-images.githubusercontent.com/83594754/209469361-cd1a7544-c3d9-44e8-a8d7-cae459f7f5e6.svg" />
-            </a></td>
+            <!-- R -->
             <td>
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209468880-bce760c9-0e82-41b0-837c-b0222b89ce51.png" />
+            </a></td>
+            <td>
+             <img height="50" src="https://github.com/Shrinidhi1/Shrinidhi1/assets/83594754/a2508dee-f739-4128-a5b0-1364eb755972"/>
+            </a></td>
+            <td>
+            <img height="50" src="https://github.com/Shrinidhi1/Shrinidhi1/assets/83594754/1c69634d-39bd-401f-bb41-41288507ca16"/>
+            </a></td>
+            <td>
+             <img height="50" src="https://github.com/Shrinidhi1/Shrinidhi1/assets/83594754/fcd363a0-c882-443d-be9f-43ccd1bb07d7"/>
+            </a></td>
+            <td>
+            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468882-3b2cd28d-a0bb-4f9c-a6f1-da5d2c0fdb37.svg"/>
             </a></td>
             <td>
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209468881-3afd7acc-b607-4620-b610-183fe1312cc6.svg" />
@@ -52,9 +56,6 @@
             </a></td>
             <td>
             <img height="50" src="https://user-images.githubusercontent.com/83594754/209468885-7e0a4115-e8ee-43e5-a67c-08ac46c9ce8c.svg"/>
-            </a></td>
-            <td>
-            <img height="50" src="https://user-images.githubusercontent.com/83594754/209468882-3b2cd28d-a0bb-4f9c-a6f1-da5d2c0fdb37.svg"/>
             </a></td>
         </tr>
     </tbody>
