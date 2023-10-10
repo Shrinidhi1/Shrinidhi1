@@ -1,6 +1,5 @@
 # Hi there👋 I am Shrinidhi!
-
-## I love to code.
+I love to code. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌍 Based in India.
 - 🌱 I’m currently learning ML and AI.
