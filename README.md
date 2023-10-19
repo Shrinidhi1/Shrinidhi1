@@ -2,8 +2,8 @@
 I love to code. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌍 Based in India.
-- 🌱 I’m currently learning ML and AI.
-- 🤝 I’m looking to collaborate on Data Science and Data Structures projects.
+- 🌱 I’m currently learning Data and Business Analytics.
+- 🤝 I’m looking to collaborate on Data Science and Business Intelligence projects.
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/shrinidhi-r-hireraddi-100256228/)
 - ⚡ Fun fact: My objective is to learn something new every week.
 
