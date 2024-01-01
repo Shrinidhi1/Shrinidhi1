@@ -1,6 +1,5 @@
 # Hi there👋 I am Shrinidhi!
-I swear by Lord Krishna, I love to code. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+Guided by Lord Krishna's debugging prowess, coding is my divine passion! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌍 Based in India.
 - 🌱 I’m currently learning Data and Business Analytics.
 - 🤝 I’m looking to collaborate on Data Science and Business Intelligence projects.
