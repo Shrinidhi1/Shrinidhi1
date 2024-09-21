@@ -1,7 +1,6 @@
 # Hi there👋 I am Shrinidhi!
 Guided by Lord Krishna's debugging prowess, coding is my divine passion! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<br> <br>
-Data Scientist with proficiency in leveraging advanced analytical tools and AI/ML algorithms to develop robust data-driven business strategies and solutions.
+
 - 🌍 Based in India.
 - 🤝 I’m looking to collaborate on Data Science projects.
 - ⚡ Fun fact: My objective is to learn something new every week.
