@@ -6,13 +6,6 @@ Guided by Lord Krishna's debugging prowess, coding is my divine passion! <img sr
 - ⚡ Fun fact: My objective is to learn something new every week.
 
 
-##  My Stats 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrinidhi1)](https://git.io/streak-stats)
- <br>
- <!--
- <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhi1&show_icons=true&theme=dark"/>
- -->
-
 ## Languages & Tools
 <table>
     <tbody>
