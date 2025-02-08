@@ -1,10 +1,6 @@
 # Hi there👋 I am Shrinidhi!
 Guided by Lord Krishna's debugging prowess, coding is my divine passion! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌍 Based in India.
-- 🤝 I’m looking to collaborate on Data Science projects.
-- ⚡ Fun fact: My objective is to learn something new every week.
-
 
 ## Languages & Tools
 <table>
